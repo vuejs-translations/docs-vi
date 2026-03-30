@@ -78,7 +78,7 @@ onMounted(load)
   <section v-else id="special-spsr">
     <span>
       <a href="/sponsor/#tier-benefits">
-        Vị trí nhà tài trợ đặc biệt đang trống - Liên hệ ngay
+        Vị trí Nhà tài trợ đặc biệt đang trống - Liên hệ ngay
       </a>
     </span>
   </section>

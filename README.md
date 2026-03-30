@@ -12,7 +12,7 @@ Tham khảo thêm:
 
 Repository này được duy trì đồng bộ với [vuejs/docs](https://github.com/vuejs/docs). Mục tiêu là bám sát nội dung gốc và chuyển ngữ sang tiếng Việt, không tách riêng hay phát triển nội dung độc lập.
 
-Nếu bạn có ý kiến về nội dung tiếng Anh, hãy tạo issue hoặc pull request trực tiếp tại [vuejs/docs](https://github.com/vuejs/docs).
+Nếu bạn có ý kiến về nội dung tiếng Anh, hãy tạo issue hoặc PR trực tiếp tại [vuejs/docs](https://github.com/vuejs/docs).
 
 Tại repository này, bạn có thể đóng góp bằng cách:
 

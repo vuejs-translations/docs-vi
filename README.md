@@ -23,7 +23,7 @@ Tại repository này, bạn có thể đóng góp bằng cách:
 
 ## Chạy local
 
-Trang web được xây dựng bằng [VitePress](https://github.com/vuejs/vitepress) và sử dụng theme từ [@vue/theme](https://github.com/vuejs/vue-theme). Toàn bộ nội dung nằm trong thư mục `src`, được viết dưới dạng Markdown.
+Trang web được xây dựng bằng [VitePress](https://github.com/vuejs/vitepress) và sử dụng theme từ [@vue/theme](https://github.com/vuejs/vue-theme). Toàn bộ nội dung nằm trong thư mục `src`, được viết với định dạng Markdown.
 
 Yêu cầu Node.js phiên bản `v20` trở lên. Khuyến nghị bật corepack:
 

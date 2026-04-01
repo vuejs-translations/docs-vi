@@ -93,15 +93,14 @@ function resolveList(data: SponsorData) {
       href="/sponsor/"
       class="spsr-item action"
       @click="track(true)"
-      >Trở thành nhà tài trợ</
-    >
+      >Trở thành nhà tài trợ</a>
+    
     <a
       v-if="tier === 'special' && data && !data[tier]?.length"
       href="/sponsor/#tier-benefits"
       class="spsr-item action"
       @click="track(true)"
-      >Tìm hiểu về gói tài trợ Đặc biệt</
-    >
+      >Tìm hiểu về gói tài trợ Đặc biệt</a>
   </div>
 </template>
 

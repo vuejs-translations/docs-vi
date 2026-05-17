@@ -8,7 +8,7 @@ Mỗi ứng dụng Vue bắt đầu bằng việc tạo một **application inst
 import { createApp } from 'vue'
 
 const app = createApp({
-  /* root component options (các tùy chọn của component gốc) */
+  /* các tùy chọn của component gốc */
 })
 ```
 

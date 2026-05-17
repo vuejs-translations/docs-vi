@@ -121,4 +121,4 @@ const app2 = createApp({
 app2.mount('#container-2')
 ```
 
-Nếu bạn sử dụng Vue để tăng cường (enhance) HTML được render từ server và chỉ cần Vue kiểm soát một số phần cụ thể của trang lớn, hãy tránh mount một application instance duy nhất cho toàn bộ trang. Thay vào đó, tạo nhiều application instance nhỏ và mount chúng vào các phần tử mà chúng chịu trách nhiệm quản lý.
+Nếu bạn sử dụng Vue để tăng cường (enhance) HTML được render từ server và chỉ cần Vue kiểm soát một vài phần trên trang, tránh mount một application instance duy nhất cho toàn bộ trang. Thay vào đó, tạo nhiều application instance nhỏ và mount chúng vào các phần tử mà chúng chịu trách nhiệm quản lý.

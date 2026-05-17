@@ -26,7 +26,7 @@ import App from './App.vue'
 const app = createApp(App)
 ```
 
-Trong khi nhiều ví dụ trong hướng dẫn này chỉ cần một component, hầu hết các ứng dụng thực tế được tổ chức thành một cây (tree) gồm nhiều component lồng nhau và có thể tái sử dụng. Ví dụ, cây component của một ứng dụng Todo có thể trông như sau:
+Tuy nhiều ví dụ trong hướng dẫn này chỉ cần một component, hầu hết các ứng dụng thực tế được tổ chức thành một cây (tree) gồm nhiều component lồng nhau và có thể tái sử dụng. Ví dụ, cây component của một ứng dụng Todo có thể trông như sau:
 
 ```
 App (root component)

@@ -103,7 +103,7 @@ app.component('TodoDeleteButton', TodoDeleteButton)
 
 Điều này giúp `TodoDeleteButton` có thể được sử dụng ở bất kỳ đâu trong app của chúng ta. Chúng ta sẽ thảo luận về việc đăng ký component và các loại asset khác ở các phần sau của hướng dẫn. Bạn cũng có thể xem toàn bộ danh sách API của application instance trong phần [API reference (tài liệu API)](/api/application).
 
-Hãy đảm bảo áp dụng tất cả cấu hình của app trước khi mount app!
+Nhớ áp dụng tất cả cấu hình của app trước khi mount app!
 
 ## Nhiều Application Instance {#multiple-application-instances}
 

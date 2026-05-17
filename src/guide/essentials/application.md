@@ -16,7 +16,7 @@ const app = createApp({
 
 Đối tượng mà chúng ta truyền vào `createApp` thực chất là một component. Mỗi app đều cần một "root component (component gốc)" có thể chứa các component khác với vai trò phần tử con.
 
-Nếu bạn đang sử dụng Single-File Components (SFC - component trong một file), thông thường chúng ta import root component từ một file khác:
+Nếu sử dụng Single-File Components (SFC - component trong một file), thông thường chúng ta import root component từ một file khác:
 
 ```js
 import { createApp } from 'vue'
